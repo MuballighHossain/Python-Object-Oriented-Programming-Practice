@@ -1,4 +1,4 @@
-#class
+# class
 class Student:
     def __init__(self, name, Id):
         # instance variables
